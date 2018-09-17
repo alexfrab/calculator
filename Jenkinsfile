@@ -3,12 +3,12 @@ pipeline {
 	stages {
 		stage("Compile") {
 			steps {
-				sh "sudo ./mvnw clean package"
+				sh "./mvnw clean package"
 			}
 		}
 		stage("Unit test") {
 			steps {
-				sh "sudo ./mvnw test"
+				sh "./mvnw test"
 			}
 		}
 	}
