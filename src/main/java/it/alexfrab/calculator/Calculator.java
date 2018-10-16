@@ -7,7 +7,9 @@ public class Calculator {
 	
 	//AGGIUNTO UN COMMENTO
 	//VEDIAMO CHE SUCCEDE :|
-
+	//Che succede se riapplico lo stash ?
+	
+	
 	int sum(int a, int b) {
 		return a + b;
 	}
