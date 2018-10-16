@@ -8,8 +8,9 @@ public class Calculator {
 	//AGGIUNTO UN COMMENTO
 	//VEDIAMO CHE SUCCEDE :|
 	//Che succede se riapplico lo stash ?
-	
-	
+	//Ho fatto un commit e poi una pull
+	//come funziona git stash ?
+
 	int sum(int a, int b) {
 		return a + b;
 	}
